@@ -52,7 +52,7 @@ public class BinaryTree {
     }
 
     private void postOrder(Node node) {
-        if (node == null) {
+        if (node == null){
             return;
         }
 
